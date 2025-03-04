@@ -6,6 +6,14 @@ What is cloud computing?
 cloud computing is the delivery of computing services like servers,storage,database,networking & software.
 
 Private cloud vs Public cloud?
+Public cloud:
+* A cloud provider manages and delivers IT infrastructure over the network for external use.
+
+
+Private Cloud:
+A single organization manages and delivers IT infrastructure over the network for internal use.
+
+
 Why Public clould so Popular?
 How AWS is better than other serices?
 
