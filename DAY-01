@@ -1,19 +1,38 @@
-What is cloud?
+1.What is cloud?
 The cloud is a vast online storage space where people and businesses store their files and applications, accessible from anywhere with an internet connection.
 The cloud also offers services, such as computing power, databases, networking, and software applications.
 
-What is cloud computing?
+2.What is cloud computing?
 cloud computing is the delivery of computing services like servers,storage,database,networking & software.
 
-Private cloud vs Public cloud?
+3.Private cloud vs Public cloud?
 Public cloud:
 * A cloud provider manages and delivers IT infrastructure over the network for external use.
+* It has shared servers.
 
 
 Private Cloud:
-A single organization manages and delivers IT infrastructure over the network for internal use.
+* A single organization manages and delivers IT infrastructure over the network for internal use.
+* It has dedicated servers.
 
 
-Why Public clould so Popular?
-How AWS is better than other serices?
+4.Why Public clould so Popular?
+* Lower Costs:
+  No need to buy expensive equipment or software. You only pay for what you use.
+
+* No Maintenance:
+  The cloud provider takes care of everything, so you don’t have to worry about updates or repairs.
+
+* Scalability:
+  You can easily increase or decrease your resources (like storage or power) whenever you need.
+
+* High Reliability:
+  Multiple servers protect against failure, so your service is always available, even if one server goes down.
+
+5.How AWS is better than other serices?
+* Lots of Services
+* Global Reach
+* Scalable
+* Strong Security
+
 
