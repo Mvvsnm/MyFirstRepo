@@ -35,4 +35,15 @@ Private Cloud:
 * Scalable
 * Strong Security
 
+6.What is AWS IAM?
+* AWS IAM (Identity and access management) is a service that helps you securely control access to AWS resources.
+* You create users, groups, and roles, and assign permissions using policies to secure your resources.
+
+
+
+
+
+
+
+
 
