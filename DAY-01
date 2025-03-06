@@ -34,11 +34,19 @@ Private Cloud:
 * Global Reach
 * Scalable
 * Strong Security
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 6.What is AWS IAM?
 * AWS IAM (Identity and access management) is a service that helps you securely control access to AWS resources.
 * You create users, groups, and roles, and assign permissions using policies to secure your resources.
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7.What is EC2, and why is it important?
+*EC2 (Elastic Compute Cloud) is a service from Amazon Web Services (AWS) that allows you to rent virtual computers (called instances) to run your apps and websites.
+8.Why EC2 is important?
+* Scalable: You can quickly add or remove resources (like storage or computing power) as your needs change.
+* Cost-Effective: You only pay for what you use, so you don’t waste money on unused resources.
+* Flexible: You can pick the type of virtual server that fits your app’s needs (like more CPU or memory).
+* Reliable: EC2 runs across multiple data centers to ensure your apps stay up and running without interruptions.
+* Secure: EC2 has built-in features to keep your data and apps safe.
 
 
 
